@@ -1,0 +1,10 @@
+# Visual Studio temporary files
+.vs/
+*.user
+*.suo
+*.ipch
+*.pdb
+*.obj
+*.idb
+*.tlog/
+*.lastbuildstate
